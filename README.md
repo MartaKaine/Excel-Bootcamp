@@ -115,6 +115,16 @@ These are essential skills for **Data Technician and Junior Data Analyst roles**
 
 ---
 
+## 📸 Project Preview
+
+### PivotTable & Chart - Summary
+<img width="451" height="294" alt="image9" src="https://github.com/user-attachments/assets/d75d6a18-2f26-4fe6-b953-f902768a0ad3" />
+
+
+### Revenue vs. Profit
+<img width="451" height="276" alt="image10" src="https://github.com/user-attachments/assets/f19a7d0e-11b1-447f-a2d6-2add4b5656dc" />
+
+
 📁 **Repository Contents**
 
 - `Data_Technician_Workbook_Week_1_Excel_2026.docx` – Completed Excel workbook
